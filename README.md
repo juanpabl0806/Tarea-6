@@ -87,4 +87,5 @@ ip -6 addr
 
 # 3. arch-linux
 Arch Linux es una distribución GNU/Linux de propósito general, desarrollada independientemente para x86-64, que se esfuerza por proporcionar las últimas versiones estables de la mayoría del software, siguiendo un modelo de lanzamiento continuo (rolling-release).
+<img width="932" height="429" alt="image" src="https://github.com/user-attachments/assets/0aa33edc-09ea-48bd-ad7c-b010f029155c" />
 
