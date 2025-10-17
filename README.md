@@ -18,8 +18,9 @@
 
 ### Comando para ejecutar htop
 ```bash
-htop
-``
+htop```
+
+
 ## Complementar htop con otras herramientas
 
 Para tener un panorama completo del sistema y la red, se pueden usar las siguientes herramientas junto con `htop`:
