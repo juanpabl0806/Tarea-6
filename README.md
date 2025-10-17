@@ -18,7 +18,8 @@
 
 ### Comando para ejecutar htop
 ```bash
-htop```
+htop
+```´´
 
 
 ## Complementar htop con otras herramientas
