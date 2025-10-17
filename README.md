@@ -17,8 +17,7 @@
 | **Barra de color** | Representa visualmente la proporción de CPU, memoria y swap usados. |
 
 ### Comando para ejecutar htop
-```bash
-htop´´´
+htop
 
 
 ## Complementar htop con otras herramientas
