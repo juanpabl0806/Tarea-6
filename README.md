@@ -19,7 +19,7 @@
 ### Comando para ejecutar htop
 ```bash
 htop
-```´´
+```´´´
 
 
 ## Complementar htop con otras herramientas
